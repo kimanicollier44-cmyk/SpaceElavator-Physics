@@ -1,4 +1,4 @@
-![SpaceElevator-Physics cover](assets/cover.png)
+![SpaceElevator-Physics cover](SpaceElevator-Physics%20cover.png)
 
 # SpaceElevator-Physics 🛰️🧗
 
